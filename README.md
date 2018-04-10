@@ -7,7 +7,6 @@ demo: http://tshirts.imomin.com/
 
 The MIT License (MIT)
 
-Copyright (c) 2013 imomin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,3 +29,5 @@ THE SOFTWARE.
 NOTE:
 If I accidentally come across your website and ask you about the editor please give me some credit and don't lie claming somebody else's work as yours.
 # webtoprint
+
+
